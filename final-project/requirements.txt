@@ -6,3 +6,4 @@ scikit-image
 matplotlib
 tqdm
 pillow
+gradio
